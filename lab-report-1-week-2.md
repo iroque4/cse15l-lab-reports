@@ -22,6 +22,8 @@ Use the command "ssh cs15lxx@ieng6.ucsd.edu" to remotely connect to this server
 
 ## Trying Some Commands
 
+![Image](Commands.png)
+
 Type commands such as "pwd" , "ls", "cd", "cp" , and so forth.
 
 "pwd" command will print out your working directory.
@@ -50,6 +52,8 @@ We will need to copy the public key to the .ssh directory of our user account on
   
   
 ## Optimizing Remote Running
+
+![Image](Optimization.png)
   
 You can optimize your process by running multiple commands in one line.
   
