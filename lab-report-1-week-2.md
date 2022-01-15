@@ -15,7 +15,7 @@ After downloading and installing is complete, you should be able to open VSCode.
 
 ![Image](RemotelyConnecting.png)
 
-Open a terminal in VSCode.
+Open a terminal in VSCode (This can be done by Terminal -> New Terminal options).
 
 Use the command `ssh cs15lxx@ieng6.ucsd.edu` to remotely connect to this server.
 
