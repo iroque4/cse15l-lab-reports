@@ -15,9 +15,9 @@ After downloading and installing is complete, you should be able to open VSCode.
 
 ![Image](RemotelyConnecting.png)
 
-Open a terminal in VSCode
+Open a terminal in VSCode.
 
-Use the command `ssh cs15lxx@ieng6.ucsd.edu` to remotely connect to this server
+Use the command `ssh cs15lxx@ieng6.ucsd.edu` to remotely connect to this server.
 
 `xx` should be replaced with your unique letters after looking up your course-specific account for CSE 15L here: [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 
@@ -52,7 +52,7 @@ Note: The scp command will automatically overwrite an existing file in the serve
 
 ![Image](SSH-keygen.png)
   
-You will run the command ssh-keygen 
+You will run the command ssh-keygen. 
   
 This will create two new files on your system; the private key (in a file `id_rsa`) and the public key (in a file `id_rsa.pub`) stored in `.ssh` directory in your computer.  
   
@@ -67,9 +67,9 @@ After this is done, you will no longer be required to enter your password when r
   
 You can optimize your process of copying and moving a file to the remote server by running multiple commands in one line.
   
-Run the command `scp <Filename> <Some directory in the remote server> ; ssh cs15lwi22zz@ieng6.ucsd.edu`
+Run the command `scp <Filename> <Some directory in the remote server> ; ssh cs15lwi22zz@ieng6.ucsd.edu`.
   
-Then run `javac <Filename>; java <Filename>`
+Then run `javac <Filename>; java <Filename>`.
 
 By doing this, you have reduced the amount single commands you run and even speed up the proccess.
   
