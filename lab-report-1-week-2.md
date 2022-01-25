@@ -71,8 +71,8 @@ Run the command `scp <Filename> <Some directory in the remote server> ; ssh cs15
   
 Then run `javac <Filename>; java <Filename>`.
 
-When running efficiently, you can expect to complete the process in about 17 total keystrokes.  
+When running efficiently, you can expect to complete the process in about 17 total keystrokes or less.  
 
-This is significantly less keystrokes than typing up every commands and running single commands to complete the proccess.
+This is significantly less keystrokes than typing up every commands and running single commands to complete the proccess which can take up well over 100 keystrokes.
 
 Overall, you have reduced the amount single commands you run and keystrokes needed to complete the process thus, speeding up the process.  
