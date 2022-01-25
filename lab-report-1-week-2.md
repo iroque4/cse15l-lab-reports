@@ -65,11 +65,14 @@ After this is done, you will no longer be required to enter your password when r
 
 ![Image](Optimization.png)
   
-You can optimize your process of copying and moving a file to the remote server by running multiple commands in one line.
+You can optimize your process of copying and moving a file to the remote server by running multiple commands in one line and using up arrow keys to recall previous commands.
   
 Run the command `scp <Filename> <Some directory in the remote server> ; ssh cs15lwi22zz@ieng6.ucsd.edu`.
   
 Then run `javac <Filename>; java <Filename>`.
 
-By doing this, you have reduced the amount single commands you run and even speed up the proccess.
-  
+When running efficiently, you can expect to complete the process in about 17 total keystrokes.  
+
+This is significantly less keystrokes than typing up every commands and running single commands to complete the proccess.
+
+Overall, you have reduced the amount single commands you run and keystrokes needed to complete the process thus, speeding up the process.  
