@@ -73,6 +73,10 @@ Then run `javac <Filename>; java <Filename>`.
 
 When running efficiently, you can expect to complete the process in about 17 total keystrokes or less.  
 
+![Image](Unoptimized.png)
+
 This is significantly less keystrokes than typing up every commands and running single commands to complete the proccess which can take up well over 100 keystrokes.
+
+Typing every commands adds to amount of keystrokes as you would have to type every single characters to run the command and running single commands also adds keystrokes because you would have to hit enter for every command.
 
 Overall, you have reduced the amount single commands you run and keystrokes needed to complete the process thus, speeding up the process.  
