@@ -12,3 +12,5 @@ Hello.
 [Lab 3 Report](https://iroque4.github.io/cse15l-lab-reports/lab-report-3-week-6)
 
 [Lab 4 Report](https://iroque4.github.io/cse15l-lab-reports/lab-report-4-week-8)
+
+[Lab 5 Report](https://iroque4.github.io/cse15l-lab-reports/lab-report-5-week-10)
